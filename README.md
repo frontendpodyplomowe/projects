@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Witaj na stronie z projektami
+
+Sprawdź moje projekty:
+[LINK Z PROJEKTAMI](https://www.interia.pl)
+
+
 
 You can use the [editor on GitHub](https://github.com/frontendpodyplomowe/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
